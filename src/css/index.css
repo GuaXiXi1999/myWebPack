@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+  border: 1px solid chartreuse;
+}
+ul li {
+  line-height: 50px;
+}
+/*# sourceMappingURL=index.css.map */
